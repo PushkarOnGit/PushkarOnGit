@@ -12,14 +12,6 @@ If an idea makes sense and excites me, chances are I’ll try to build it.
 - **Firebase**
 - **PostgreSQL**
 - **Basic ML (MLP, SVM, Random Forests)**
-- 
----
-
-### What I’m Building
-- Cross-platform Flutter apps  
-- College & real-life problem–solving projects  
-- Systems that combine **Frontend + Backend + Intelligence**
-  
 ---
 
 ### Currently Learning
