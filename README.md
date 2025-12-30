@@ -9,7 +9,7 @@ If an idea makes sense and excites me, chances are I’ll try to build it.
 
 ### Tech I Work With
 - **Flutter / Dart**
-- **REST APIs (learning FastAPI)**
+- **FastAPI**
 - **Firebase**
 - **PostgreSQL**
 - **Basic ML (MLP, SVM, Random Forests)**
