@@ -1,6 +1,6 @@
-# Hello World!
+### Hello World!
 
-I’m **Pushkar**, a developer who likes building things that actually *do* something.  
+I’m **Pushkar Jadhav**, a developer who likes building things that actually *do* something.  
 I’m currently focused on **Flutter Application Development**, **DSA**, and gradually moving towards **FastAPI backend + ML-powered systems**.
 
 If an idea makes sense and excites me, chances are I’ll try to build it.
@@ -24,8 +24,6 @@ If an idea makes sense and excites me, chances are I’ll try to build it.
 ---
 
 ### Coding Profiles
-- LeetCode: https://leetcode.com/u/pushkar-jadhav/
-### Problem Solving
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/pushkar-jadhav/)
 ---
 
