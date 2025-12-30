@@ -1,7 +1,8 @@
 # Hello World!
 
-I’m **Pushkar**, a developer who likes building things that actually *do* something.
-I’m currently focused on **Flutter Application Development**, **DSA**, and gradually moving towards **FastAPI backend + ML-Powered Systems**.
+I’m **Pushkar**, a developer who likes building things that actually *do* something.  
+I’m currently focused on **Flutter Application Development**, **DSA**, and gradually moving towards **FastAPI backend + ML-powered systems**.
+
 If an idea makes sense and excites me, chances are I’ll try to build it.
 
 ---
@@ -12,6 +13,7 @@ If an idea makes sense and excites me, chances are I’ll try to build it.
 - **Firebase**
 - **PostgreSQL**
 - **Basic ML (MLP, SVM, Random Forests)**
+
 ---
 
 ### Currently Learning
@@ -21,8 +23,14 @@ If an idea makes sense and excites me, chances are I’ll try to build it.
 
 ---
 
+### Coding Profiles
+- LeetCode: https://leetcode.com/u/pushkar-jadhav/
+### Problem Solving
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/pushkar-jadhav/)
+---
+
 ### Reach Me
-If you want to collaborate, discuss ideas, or build something cool:
+If you want to collaborate, discuss ideas, or build something cool:  
 📧 **pushkarjadhav9245@gmail.com**
 
 ---
